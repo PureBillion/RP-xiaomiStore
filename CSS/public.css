@@ -168,22 +168,29 @@ header{
     width: 100%;
     height: 230px;
 }
-.hover_nav #hover_nav_list1{
+.hover_nav>ul{
+    display: none;
     width: 1226px;
     margin-left: auto;
     margin-right: auto;
 }
-#hover_nav_list1 li{
-    padding: 35px 12px 0;
+.hover_nav>ul>li{
+    padding-top: 35px;
     text-align: center;
-    width: 180px;
+    width: 204px;
     float: left;
 }
-#hover_nav_list1 .title{
+.hover_nav>ul>li .imgs{
+    border-right: 1px solid #ccc;
+}
+.hover_nav>ul>li:last-child .imgs{
+    border: none;
+}
+.hover_nav>ul .title{
     height: 20px;
     line-height: 20px;
 }
-#hover_nav_list1 p{
+.hover_nav>ul p{
     height: 20px;
     line-height: 20px;
     color: #ff6700;

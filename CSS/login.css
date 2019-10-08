@@ -63,7 +63,7 @@ header .h_logo{
 
 /*tabs_icon1：设置登录样式*/
 .tabs_icon1{
-    display: none;
+    display: block;
     width: 100%;
     height: 100%;
     color: white;
@@ -137,7 +137,7 @@ legend{
 
 /*tabs_icon2：设置扫码登录样式*/
 .tabs_icon2{
-    /*display: none;*/
+    display: none;
     text-align: center;
     color: #999999;
 }
@@ -158,7 +158,7 @@ footer{
 
     padding: 100px 0 17px;
 
-    background-color: yellow;
+    background-color: #F5f5f5;
 
     text-align: center;
     font-size: 14px;

@@ -5,11 +5,15 @@
     margin-right: auto;
     margin-left: auto;
 }
+.rM{
+    background:  url("../images/index_images/mi9-01.jpg") 0 0 no-repeat;
+    background-size: cover;
+}
 /*设置左侧导航*/
 .rM .rM_left{
     float: left;
     width: 234px;
-    background-color: #999999;
+    background-color: rgba(0,0,0,0.5);
     font-size: 15px;
 }
 .rM_left ul{
@@ -29,11 +33,49 @@
     float: right;
     width: 992px;
     height: 460px;
-    background-color: green;
-    background-image: url("../images/index_images/1b1d3d2a8e50d6445d471322b70d3aea.jpg");
-    background-position: right;
+    position: relative;
 }
-
+.rM_right>#pre{
+    width: 41px;
+    height: 69px;
+    background:  url("../images/index_images/icon-slides.png") -84px 50% no-repeat;
+    position: absolute;
+    top:195px;
+    left:0;
+}
+.rM_right>#pre:hover{
+    background-position:  0 50%;
+}
+.rM_right>#next{
+    width: 41px;
+    height: 69px;
+    background:  url("../images/index_images/icon-slides.png") -125px 50% no-repeat;
+    position: absolute;
+    top:195px;
+    right:0;
+}
+.rM_right>#next:hover{
+    background-position:  -42px 50%;
+}
+.rM_right>#pointList{
+    list-style: none;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+.rM_right>#pointList>li{
+    width: 10px;
+    height: 10px;
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 100%;
+    float:left;
+    margin-left: 14px;
+    border: 2px solid rgba(255,255,255,0.6);
+}
+#pointList>.active{
+    background-color: rgba(255,255,255,0.8) !important;
+}
+/***************************************************************************************************/
 /*设置home_row*/
 .home_row{
     width: 1226px;

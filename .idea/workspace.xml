@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="246031dc-3f87-4287-abef-5f6e5fd8c067" name="Default Changelist" comment="" />
+    <list default="true" id="246031dc-3f87-4287-abef-5f6e5fd8c067" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/index_images/056576955e6b8a936bbea4e3fc728a4b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/index_images/icon-slides.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/index_images/mi9-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/00f597a8725eee9245e383c35cd4f7b6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/026a28fc18eff2cfa4d26a799a2da9cc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/03dc85cd792904ddc8027b2d781beed8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/11b8bca444aba2994fe852993eac9203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/28efac56ef4c4942077dac7e30e8c624.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/2a500be4264c692899b25d86c16403f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/33c6a31aaee90164ce963801bec48e64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/3c3e9f61cc72ccd2a37fc90fed215b66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/486a2a7359b6bda95b3dbd4e45b9c50a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/5630aa997c82409ee33b2814c7eb2244.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/5dd23c09b7eb6471968537fdce629194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/5fc5ee374e5306aa5513be4f3b560531.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/6917267948c54c647d2009a98637aac6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/6a25f895ad6019c3fae32fd1f48a2c7c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/8ee0af37bbd2f5a83c799e87dd791037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/95c4329ce2c454e2a5fa1e0931528a46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/96108a8feee8e790389b09b8b949fa7d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/a40904b6a053b73b631a152334388d0e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/b0e0c0fda4adf267012815127302f6de.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/bb159dbe860ee434b52d8eed9e9fd424.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/bd922870295a97a0972eaba5af92129e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/bf72a3e9a6e799cb71ecfa7d80465351.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/c1016ddffd2ac5808c4bebcdbefd413a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/c1937ecb7e9b8e1aee11d6936e19d53c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/c5d772b7c2a159c3ed7d4e31bd293f18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/d4fbf37c6b51e510a3bac5e738f2f681.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/d712f71b3c4a3b562601c2b956a660ad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/dacd6a3d8440b7a038e9778702bd6db6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/df136199221a23299bc5348f37230a86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/e06b219c5bced9256467b17738a943c6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/e3fb0886fdb13e5ae784b9713b9a0038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/e8f4e22f6d591825f8f150b3309c750b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/ec5be5f93ac0118aeec27b8df4337fc9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/f69828396fcd1e05b932778f4fca4409.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/public_images/f6e585a4bf5c0f744ca60f19ecd6fadf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/tools.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/product.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/product.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS/public.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/public.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/product.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/product.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/public.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/public.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,26 +70,33 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RKJnUyOSE6lLFi9GAFSIjKSrXw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/index_images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images\index_images" />
-      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images\product_images" />
-      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images\public_images" />
-      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images\login_images" />
+      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\js" />
+      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images" />
       <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images\index_images" />
+      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images\public_images" />
+      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images\product_images" />
+      <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore\images\login_images" />
       <recent name="C:\Users\Administrator\WebstormProjects\xiaomiStore" />
     </key>
   </component>
@@ -63,11 +123,27 @@
       <option name="presentableId" value="Default" />
       <updated>1569411135115</updated>
       <workItem from="1569411140631" duration="98893000" />
-      <workItem from="1569599550936" duration="2763000" />
+      <workItem from="1569599550936" duration="9312000" />
+      <workItem from="1570027990573" duration="932000" />
+      <workItem from="1570203896225" duration="49770000" />
+      <workItem from="1570500121915" duration="3475000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
